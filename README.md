@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+### Run json-server (re-install if needed)
+```
+json-server --watch data/db.json
+```
 
 ### Compiles and hot-reloads for development
 ```
